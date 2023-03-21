@@ -11,7 +11,5 @@ Meu nome é Marcus sou estudante de informatica
     <img title="HTML5" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img title="CSS3" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img title="JAVASCRIPT" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img title="MYSQL" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="GCP" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
  </div>
  
